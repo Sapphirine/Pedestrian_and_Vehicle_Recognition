@@ -7,4 +7,4 @@ RandomMix is how we mix the negative data and positive data;
 
 XMLExtension is how we extract data from JSON file and extend it as we did on image;
 
-Faster-R-CNN is the test algorithm we used. We are trainning our model using Caffe so there are no test code here. Training section mainly include parameter adjustment.
+Faster-R-CNN is the test algorithm we used. We are trainning our model using Caffe so there are no train code here. Training section mainly include parameter adjustment. Trainning and testing algorithm we used are from open source GitHub repo.
